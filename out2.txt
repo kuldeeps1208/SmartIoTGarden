@@ -1,0 +1,1001 @@
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Calculating Distance of water from sensor...
+Depth of water: 318.41 cm
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Callback triggered for Moisture Sensor
+Dry soil 
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 1172.07 cm
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 32.03 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 40.55 cm
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Calculating Distance of water from sensor...
+Depth of water: 3218.2 cm
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Callback triggered for Moisture Sensor
+Dry soil 
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 5.24 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 113029.13 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Callback triggered for Moisture Sensor
+Dry soil 
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: -112829.55 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 113317.57 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Empty
+Callback triggered for Moisture Sensor
+Water Detected!
+Tank is Empty, switching ON the Valve
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 227173.15 cm
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 5.21 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are :: Callback triggered for Moisture Sensor
+Water Detected!
+ 0 0
+Soil is wet, hence water not required
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 3184.62 cm
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 5.24 cm
+Callback triggered for Rain
+It's not raining .. 0
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 8.59 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 5.68 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Callback triggered for Rain
+It's Raining
+Tank is Full
+Variable Values are ::  1 1
+Soil is wet, hence water not required
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 5.32 cm
+Tank is Full
+Variable Values are ::  1 1
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 5.3 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 4.98 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: -112990.0 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: -225880.67 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 232.47 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 231.99 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 18.68 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 7.2 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 7.16 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Water Detected!
+Calculating Distance of water from sensor...
+Depth of water: 7.62 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 7.57 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 7.63 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: -112887.14 cm
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Calculating Distance of water from sensor...
+Depth of water: 7.62 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 7.18 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 7.19 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 2.8 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Callback triggered for Moisture Sensor
+Dry soil 
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 7.97 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 7.96 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 7.59 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Water Detected!
+Calculating Distance of water from sensor...
+Depth of water: 7.6 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 8.03 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 8.01 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 8.01 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 7.99 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 8.01 cm
+Callback triggered for Rain
+It's Raining
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 1
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 8.0 cm
+Tank is Full
+Variable Values are ::  1 1
+Soil is wet, hence water not required
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 7.11 cm
+Callback triggered for Rain
+It's not raining .. 0
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 8.01 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 26.41 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 25.34 cm
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Callback triggered for Rain
+It's not raining .. 0
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 6.04 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 6.49 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 6.45 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+Publishing message 33.0 19.0
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Calculating Distance of water from sensor...
+Depth of water: 4.15 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 4.16 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 4.1 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 4.13 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+LOW INTENSITY Detected! ..... Switching ON the LED
+Calculating Distance of water from sensor...
+Depth of water: 4.16 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 4.11 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 4.15 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 4.15 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: -112741.23 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+LOW INTENSITY Detected! ..... Switching ON the LED
+Calculating Distance of water from sensor...
+Depth of water: 4.14 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Callback triggered for Rain
+It's Raining
+Calculating Distance of water from sensor...
+Depth of water: 4.16 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 1
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 4.15 cm
+Tank is Full
+Variable Values are ::  1 1
+Soil is wet, hence water not required
+Callback triggered for Moisture Sensor
+Dry soil 
+Callback triggered for Rain
+It's not raining .. 0
+Calculating Distance of water from sensor...
+Depth of water: 4.13 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 1.46 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Water Detected!
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 4.15 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Calculating Distance of water from sensor...
+Depth of water: 5.11 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 3198.28 cm
+LOW INTENSITY Detected! ..... Switching ON the LED
+Tank is Empty
+Tank is Empty, switching ON the Valve
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 3.08 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 3.08 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Rain
+It's not raining .. 0
+Calculating Distance of water from sensor...
+Depth of water: 227053.43 cm
+LOW INTENSITY Detected! ..... Switching ON the LED
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 2.37 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 0.09 cm
+LOW INTENSITY Detected! ..... Switching ON the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 4.32 cm
+Callback triggered for Rain
+It's not raining .. 0
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.34 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: -112744.66 cm
+Callback triggered for Rain
+It's not raining .. 0
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+LOW INTENSITY Detected! ..... Switching ON the LED
+Calculating Distance of water from sensor...
+Depth of water: 0.31 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Rain
+It's not raining .. 0
+Calculating Distance of water from sensor...
+Depth of water: 4.36 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: -113446.91 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Rain
+It's not raining .. 0
+Calculating Distance of water from sensor...
+Depth of water: 1.75 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 1.75 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Rain
+It's not raining .. 0
+Calculating Distance of water from sensor...
+Depth of water: -225532.61 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 26.07 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Callback triggered for Rain
+It's not raining .. 0
+Calculating Distance of water from sensor...
+Depth of water: 27.17 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Empty
+Tank is Empty, switching ON the Valve
+Calculating Distance of water from sensor...
+Depth of water: 4.31 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.69 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.7 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.67 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.76 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.74 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.71 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 4.75 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Calculating Distance of water from sensor...
+Depth of water: 3.07 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+Publishing message 33.0 20.0
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> %Run aws_test.py
+Connecting to AWS IoT ....
+Variable Values at starting of LOOP ::  0 0
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.78 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.7 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 2.03 cm
+LOW INTENSITY Detected! ..... Switching ON the LED
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Publishing message 33.0 21.0
+LOW INTENSITY Detected! ..... Switching ON the LED
+Calculating Distance of water from sensor...
+Depth of water: 1.07 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Rain
+It's not raining .. 0
+Publishing message 33.0 21.0
+LOW INTENSITY Detected! ..... Switching ON the LED
+Calculating Distance of water from sensor...
+Depth of water: 1.42 cm
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+LOW INTENSITY Detected! ..... Switching ON the LED
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.74 cm
+Callback triggered for Rain
+It's not raining .. 0
+Callback triggered for Moisture Sensor
+Dry soil 
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+LOW INTENSITY Detected! ..... Switching ON the LED
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+LOW INTENSITY Detected! ..... Switching ON the LED
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.76 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.74 cm
+LOW INTENSITY Detected! ..... Switching ON the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Callback triggered for Rain
+It's not raining .. 0
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Dry soil 
+Publishing message 33.0 21.0
+Callback triggered for Rain
+It's not raining .. 0
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.75 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Callback triggered for Moisture Sensor
+Water Detected!
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water:Callback triggered for Moisture Sensor
+Water Detected!
+ 4.74 cm
+HIGH INTENSITY DETECTED ... Switching OFF the LED
+Tank is Full
+Variable Values are ::  0 0
+Soil is wet, hence water not required
+Publishing message 33.0 21.0
+Callback triggered for Moisture Sensor
+Dry soil 
+Calculating Distance of water from sensor...
+Depth of water: 4.8 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.76 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+Publishing message 33.0 21.0
+Calculating Distance of water from sensor...
+Depth of water: 4.73 cm
+Tank is Full
+Variable Values are ::  1 0
+It's not raining and water is also not there, hence switching ON the Motor
+
+────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+Python 3.9.2 (/usr/bin/python3)
+>>> 
