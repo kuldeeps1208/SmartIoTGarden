@@ -1,0 +1,86 @@
+{
+  "topicFilter": "smartgarden/temperature",
+  "qos": 0,
+  "messages": [
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233404741,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233389982,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233380288,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233368048,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233345677,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233333377,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233323689,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233313988,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233304286,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/temperature",
+      "timestamp": 1651233284447,
+      "payload": {
+        "Tempareture": "33.0"
+      }
+    }
+  ]
+}

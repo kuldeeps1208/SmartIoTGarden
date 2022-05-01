@@ -1,0 +1,86 @@
+{
+  "topicFilter": "smartgarden/tankstatus",
+  "qos": 0,
+  "messages": [
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233407519,
+      "payload": {
+        "Tank Depth from top ": "4.73"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233392772,
+      "payload": {
+        "Tank Depth from top ": "4.76"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233383076,
+      "payload": {
+        "Tank Depth from top ": "4.73"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233370835,
+      "payload": {
+        "Tank Depth from top ": "4.73"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233348453,
+      "payload": {
+        "Tank Depth from top ": "4.8"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233336201,
+      "payload": {
+        "Tank Depth from top ": "4.74"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233326463,
+      "payload": {
+        "Tank Depth from top ": "4.75"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233316778,
+      "payload": {
+        "Tank Depth from top ": "4.73"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233307078,
+      "payload": {
+        "Tank Depth from top ": "4.73"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/tankstatus",
+      "timestamp": 1651233287250,
+      "payload": {
+        "Tank Depth from top ": "4.73"
+      }
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "topicFilter": "smartgarden/humidity",
+  "qos": 0,
+  "messages": [
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233404997,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233390232,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233380531,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233368297,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233345930,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233333650,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233323933,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233314243,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233304540,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    },
+    {
+      "format": "json",
+      "topic": "smartgarden/humidity",
+      "timestamp": 1651233284698,
+      "payload": {
+        "Humidity": "21.0"
+      }
+    }
+  ]
+}
